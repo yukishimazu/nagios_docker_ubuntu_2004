@@ -35,7 +35,7 @@ http://localhost:8001/nagios4/
 /etc/nagios4# nagios4 -v nagios.cfg
 ```
 
-### restart nagios4
+### restart nagios
 ```
 service nagios4 restart
 ```
