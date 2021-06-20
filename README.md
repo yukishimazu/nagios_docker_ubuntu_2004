@@ -39,3 +39,10 @@ http://localhost:8001/nagios4/
 ```
 service nagios4 restart
 ```
+
+### references
+- https://github.com/JasonRivers/Docker-Nagios
+- https://github.com/manios/docker-nagios
+- https://www.linuxhowto.net/how-to-install-nagios-on-ubuntu-20-04/
+- https://www.centlinux.com/2021/04/install-nagios-core-on-ubuntu-lts.html
+
