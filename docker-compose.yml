@@ -1,0 +1,13 @@
+# Usage:
+# docker-compose build
+# docker-compose up
+# docker-compose up -d
+version: '3'
+services:
+  nagios:
+    build: .
+    entrypoint: /home/app/start.sh
+    ports:
+      - '8001:80'
+    volumes:
+      - .:/home/app
