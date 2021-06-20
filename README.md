@@ -1,5 +1,7 @@
 # nagios_docker_ubuntu_2004
 
+Docker image for Nagios. Built with Ubuntu 20.04 packages
+
 ### build
 ```
 docker-compose build
